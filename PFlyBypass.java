@@ -4,7 +4,7 @@ import me.earth.earthhack.api.module.Module;
 import me.earth.earthhack.api.module.util.Category;
 import me.earth.earthhack.api.setting.Setting;
 import me.earth.earthhack.api.setting.settings.NumberSetting;
-import pig.money.cord.modules.Notify;
+import venuz.mod.Mod.modules.Notify;
 
 public class PFlyBypass extends Module
 {
